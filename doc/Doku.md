@@ -45,5 +45,11 @@ Durch die Entwicklung des Aktien-Tickers sollen Schüler und interessierte Benut
    - GitHub-Link
    - API-Lizenzen
    - Zugang zum Schulserver, der die Bilder und Videos auf dem Bildschirm im Schuleingangsbereich einspielt.
+   - Plan zur Verwaltung von API-Schlüsseln und Zugangskontrollen für die App zur Gewährleistung der Sicherheit.
 4. Testphase:
-Durchführung von Tests, um sicherzustellen, dass die Anwendung stabil und benutzerfreundlich ist, gefolgt von einer Feedback-Runde, um Verbesserungsvorschläge zu sammeln.
+   - Durchführung von Tests, um sicherzustellen, dass die Anwendung stabil und benutzerfreundlich ist.
+   - Feedback-Runde zur Sammlung von Verbesserungsvorschlägen und Nutzererfahrungen während der Testphase.
+5. Risiken und Herausforderungen:
+   - Mögliche Herausforderungen bei der Integration der APIs und der Gewährleistung von Echtzeitdaten.
+   - Technische Probleme bei der Bereitstellung der Anwendung auf dem Schulserver.
+   - Strategie zur regelmäßigen Überprüfung und Aktualisierung der API-Keys und Sicherheitsmaßnahmen.
