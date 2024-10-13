@@ -41,13 +41,17 @@ Durch die Entwicklung des Aktien-Tickers sollen Schüler und interessierte Benut
 
 ## Projektorganisation
 1. **Teamzusammensetzung** (Rollen):
+   - **Projektauftraggeber**: HAK Imst (Prof. Strigl)
    - **Projektleiter und Backend-Entwickler**: Paul Summerauer
-   - **Frontend-Entwickler**: Pius Rauch
-   - **Designer und Backend-Entwickler**: Fabian Holzknecht
-2. **Zeitrahmen**:
+   - **Projektmitarbeiter (Frontend-Entwickler)**: Pius Rauch
+   - **Projektmitarbeiter (Designer und Backend-Entwickler)**: Fabian Holzknecht
+   - **Kunden**: Alle Schüler, Lehrer und sonstige Personen an der Schule
+2. **Form der Zusammenarbeit**: 
+**Matrix-Projekt-Organisation**, weil sie interdisziplinäre Zusammenarbeit fördert, Flexibilität in der Aufgabenverteilung ermöglicht und eine optimale Nutzung der Ressourcen gewährleistet. Zudem stärkt sie die Kommunikation und Verantwortlichkeit im Team, was für die erfolgreiche Umsetzung des Aktien-Ticker-Projekts entscheidend ist.
+3. **Zeitrahmen**:
    - Zuerst genaue Planung der Geschäftslogik, dann die Ressourcenanschaffungen (siehe Punkt Ressourcen), dann die Strukturierung (z. B. Klassenhierarchien), dann die Entwicklung, Tests und Veröffentlichung.
    - Vorgegebener Termin der Lehrpersonen
-3. **Benötigte Ressourcen**:
+4. **Benötigte Ressourcen**:
    - IntelliJ Ultimate/Community Edition (neueste)
    - JDK (neueste)
    - Git-Installation
@@ -55,10 +59,10 @@ Durch die Entwicklung des Aktien-Tickers sollen Schüler und interessierte Benut
    - API-Lizenzen
    - Zugang zum Schulserver, der die Bilder und Videos auf dem Bildschirm im Schuleingangsbereich einspielt.
    - Plan zur Verwaltung von API-Schlüsseln und Zugangskontrollen für die App zur Gewährleistung der Sicherheit.
-4. **Testphase**:
+5. **Testphase**:
    - Durchführung von Tests, um sicherzustellen, dass die Anwendung stabil und benutzerfreundlich ist.
    - Feedback-Runde zur Sammlung von Verbesserungsvorschlägen und Nutzererfahrungen während der Testphase.
-5. **Risiken und Herausforderungen**:
+6. **Risiken und Herausforderungen**:
    - Mögliche Herausforderungen bei der Integration der APIs und der Gewährleistung von Echtzeitdaten.
    - Technische Probleme bei der Bereitstellung der Anwendung auf dem Schulserver.
    - Strategie zur regelmäßigen Überprüfung und Aktualisierung der API-Keys und Sicherheitsmaßnahmen.
