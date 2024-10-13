@@ -2,7 +2,7 @@
 
 ## Definition
 - Mit einem Video-Slider aktuelle Aktien-, Rohstoff- und Indizienkurse in Echtzeit anzeigen.
-- API zur Abfrage von Finanzdaten
+- API zur Abfrage von Finanzdaten 
 - KI-API verwenden, die die Vorhersage von Preisbewegungen basierend auf historischen Daten und Marktanalysen durchführt.
 
 ## Umsetzung
@@ -23,6 +23,25 @@
    - Alarme und Benachrichtigungen: Möglichkeit für Benutzer, Preisalarme zu setzen und Benachrichtigungen über wichtige Änderungen zu erhalten.
 
 ## Zielsetzung
-Durch die 
+Durch die Entwicklung des Aktien-Tickers sollen Schüler und interessierte Benutzer in die Welt der Finanzen eingeführt werden. Die Anwendung soll:
+- Wissen vermitteln: Den Nutzern helfen, ein grundlegendes Verständnis für den Aktienmarkt und die Preistrends zu entwickeln.
+- Interaktive Erfahrungen bieten: Durch die Kombination von realen Daten und KI-Analysen eine ansprechende und lehrreiche Benutzererfahrung schaffen.
+- Nutzerbindung fördern: Durch die Möglichkeit, Charts zu speichern und Alarme zu setzen, eine langfristige Nutzerbindung aufbauen.
 
 ## Projektorganisation
+1. Teamzusammensetzung (Rollen):
+   - Projektleiter und Backend-Entwickler: Paul Summerauer
+   - Frontend-Entwickler: Pius Rauch
+   - Designer und Backend-Entwickler: Fabian Holzknecht
+2. Zeitrahmen:
+   - Zuerst genaue Planung der Geschäftslogik, dann die Ressourcenanschaffungen (siehe Punkt Ressourcen), dann die Strukturierung (z. B. Klassenhierarchien), dann die Entwicklung, Tests und Veröffentlichung.
+   - Vorgegebener Termin der Lehrpersonen
+3. Benötigte Ressourcen:
+   - IntelliJ Ultimate/Community Edition (neueste)
+   - JDK (neueste)
+   - Git-Installation
+   - GitHub-Link
+   - API-Lizenzen
+   - Zugang zum Schulserver, der die Bilder und Videos auf dem Bildschirm im Schuleingangsbereich einspielt.
+4. Testphase:
+Durchführung von Tests, um sicherzustellen, dass die Anwendung stabil und benutzerfreundlich ist, gefolgt von einer Feedback-Runde, um Verbesserungsvorschläge zu sammeln.
