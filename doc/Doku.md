@@ -62,3 +62,5 @@ Durch die Entwicklung des Aktien-Tickers sollen Schüler und interessierte Benut
    - Mögliche Herausforderungen bei der Integration der APIs und der Gewährleistung von Echtzeitdaten.
    - Technische Probleme bei der Bereitstellung der Anwendung auf dem Schulserver.
    - Strategie zur regelmäßigen Überprüfung und Aktualisierung der API-Keys und Sicherheitsmaßnahmen.
+
+Paul Summerauer, Fabian Holzknecht, Pius Rauch
