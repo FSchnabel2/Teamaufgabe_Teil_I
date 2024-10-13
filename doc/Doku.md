@@ -1,5 +1,8 @@
 # Aktien-Ticker
 
+## Einleitung
+In der heutigen Zeit, in der Finanzwissen für die persönliche und berufliche Entwicklung unerlässlich geworden ist, ist es wichtig, dass junge Menschen ein grundlegendes Verständnis für den Aktienmarkt erlangen. Unser Projekt „Aktien-Ticker“ zielt darauf ab, eine innovative und interaktive Plattform zu schaffen, die Schüler und interessierte Nutzer in die Welt der Finanzen einführt. Durch den Einsatz von Echtzeitdaten und KI-Analysen möchten wir eine ansprechende Benutzererfahrung bieten, die das Lernen fördert und den Nutzer in die Lage versetzt, fundierte Entscheidungen im Finanzbereich zu treffen.
+
 ## Definition
 - Mit einem **Video-Slider aktuelle Aktien-, Rohstoff- und Indizeskurse** in Echtzeit anzeigen.
 - **API zur Abfrage von Finanzdaten** integrieren, um verlässliche Informationen bereitzustellen.
